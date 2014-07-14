@@ -1,6 +1,8 @@
 DMCI-XC8
 ========
 
+This code is early alpha - it works on my setup :-).
+
 A Microchip RTDM implementation for PIC16 micros. The target for this demo is PIC16F1509, however, any PIC16 with ADC, hardware UART, and enough
 memory for desired DMCI buffers should be capable of running it.
 
